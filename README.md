@@ -1,1 +1,1 @@
-# prism-aura-privacy
+# aura-widgets-privacy
